@@ -23,4 +23,4 @@ nomeProduto = input("Digite o nome do produto: ")
 precoUnitario = float(input("Digite o preço unitário do produto (em R$): "))
 quantidade = int(input("Digite a quantidade desejada: "))
 precoTotal = precoUnitario * quantidade
-print(f"O preço total para {quantidade} unidades de {nomeProduto} é: R$ {precoTotal:.2f}")
+print(f"O preço total para {quantidade} unidades de {nomeProduto} é: R$ {precoTotal:.2f}!")
